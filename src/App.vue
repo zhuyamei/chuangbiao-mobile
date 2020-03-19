@@ -12,12 +12,14 @@ export default {
 
 <style>
 #app {
+  width: 1920px;
   min-width: 1920px;
-  max-width: 1920px;
+  height:100%;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  letter-spacing: 2px;
 }
 </style>
